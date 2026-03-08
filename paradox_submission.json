@@ -1,0 +1,6 @@
+{
+  "prompt": "A scale-free social network rendered on a deep midnight background. Nodes sized and colored by connection count: small dim blue peripheral nodes, large glowing amber hub nodes. Several small peripheral nodes are circled with a faint blue ring — their neighbors are circled with amber rings proportional to their much-larger connection counts. Every circled focal node's neighbors glow larger and warmer. No text, no axes, no labels.",
+  "model": "Custom Python/Pillow/NumPy generative art (Barabasi-Albert preferential attachment + force-directed layout)",
+  "paradox": "Friendship Paradox",
+  "visual_logic": "Every dim, small node (few connections) is circled; its neighbors always glow larger and warmer. No matter which small node you examine, its neighbors outshine it — the paradox made spatially inescapable."
+}
